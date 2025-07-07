@@ -5,7 +5,7 @@ It’s a custom Python module developed to simulate a minimal version of Ansible
 The goal is to let them practice Python programming while grasping core Ansible concepts like task execution, modules, and remote actions — without needing the full complexity of the actual Ansible engine.
 
 
-## 📸 Subject
+## 📜 Subject
 The script automates a set of remote checks and corrections by connecting via SSH to the student’s VM using sshpass. Each menu item corresponds to a common Ansible task or expected configuration in the student's machine.
 
 🗝 Key Features of the Script:
