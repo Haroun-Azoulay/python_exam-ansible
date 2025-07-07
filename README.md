@@ -1,4 +1,4 @@
-# <p align="center">Exam-ansible </p>
+# <p align="center">Exam ansible </p>
 
 ## 📖 Context
 It’s a custom Python module developed to simulate a minimal version of Ansible, aimed at helping students understand how infrastructure-as-code tools work.
