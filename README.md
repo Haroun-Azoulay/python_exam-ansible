@@ -26,7 +26,7 @@ The script automates a set of remote checks and corrections by connecting via SS
 
         
 ## 🙇 Acknowledgements      
-- A [Etna](https://www.h3hitema.fr/) - thanks also for being a teacher on the ansible master module.
+- A [H3 Hitema](https://www.h3hitema.fr/) - thanks also for being a teacher on the ansible master module.
 
         
         
